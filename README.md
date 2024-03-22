@@ -1,88 +1,31 @@
-# [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
+Imperative Approach
+The cookSteakImperative function demonstrates an imperative programming approach. It provides detailed, step-by-step instructions for cooking a steak, including preheating the grill, seasoning the steak, cooking it to the desired doneness, and serving it.
 
-Loom Recording Link: [Insert Link]
+Usage
+To use the cookSteakImperative function, provide the steak weight in ounces and the desired doneness temperature in Celsius as arguments.
 
-# Project Overview
+Declarative Approach
+The cookSteakDeclarative function demonstrates a declarative programming approach. It describes the cooking process at a higher level, focusing on what needs to be done rather than how to do it. The process is defined as a series of actions without specifying the exact steps or implementation details.
 
-In this project, you will be presented with two JavaScript code examples, each demonstrating a different programming paradigm: imperative and declarative. Your task is to analyse these examples and determine which one follows an imperative programming style and which one follows a declarative programming style. 
+Usage
+To use the cookSteakDeclarative function, provide the steak weight in ounces and the desired doneness temperature in Celsius as arguments.
 
-You will present your reasoning for each example, record your presentation using Loom, and submit your findings along with the Loom recording to the Project Tab on the Learning Management System (LMS).
+Challenges Faced While Recording a Presentation
+Ensuring clear and concise explanations of code logic.
+Maintaining engagement throughout the presentation.
+Managing time effectively to cover all key points.
 
-# Instructions
+Learning Approach
+Studying the principles of imperative and declarative programming.
+Analyzing and comparing code examples in both paradigms.
+Practicing presenting technical concepts in a clear and engaging manner.
 
-## Step 1: Clone the Repository
+Improvements
+Incorporating more visual aids and examples in the presentation.
+Seeking feedback from peers and mentors to improve presentation skills.
+Continuously refining explanations to make them more accessible to a wider audience.
 
-Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_JSL03
+Conclusion
+Understanding different programming paradigms is essential for becoming a well-rounded programmer. By studying and practicing examples in both imperative and declarative styles, you can improve your coding skills and adaptability to different programming challenges.
 
-1. Access the provided repository containing the starter code and presentation template.
-2. Clone the repository.
-3. Open the cloned repository in your preferred code editor.
-
-## Step 2: Analyze the Examples
-
-1. In the cloned repository, you will find two JavaScript code examples labeled "Example 1" and "Example 2."
-2. Examine each code example and determine which one follows an imperative programming style and which one follows a declarative programming style.
-
-## Step 3: Record Your Presentation
-
-1. Use Loom (https://www.loom.com/).
-2. Create a single video presentation for both examples that include the following:
-
-   - Introduction of the example number.
-   - Explanation of whether the example is imperative or declarative.
-   - Detailed reasoning for your choice, discussing the code logic and style used in the example.
-   - Mention any specific code structures or patterns that align with the chosen programming paradigm.
-   
-3. Keep each video presentation concise, with a maximum length of 2 minutes for each example. Your total recording time should not exceed 5 minutes.
-
-## Step 4: Insert Loom Links
-
-1. After recording, upload your presentation videos to Loom.
-2. Obtain the Loom recording links for the video presentation.
-3. Edit the `README.md` file in the cloned repository and insert the Loom recording links.
-   
-## Step 5: Submit Your Project
-1. Commit your changes to the Git repository and push them to your GitHub account.
-2. Ensure that the repository is public so that it can be accessed.
-3. Submit the GitHub project link (URL) that includes your Loom recording link to the [JSL03] Project Tab on the LMS for evaluation.
-
-# Project Evaluation
-
-Your project will be evaluated based on your ability to:
-
-- Accurately identify and differentiate between imperative and declarative programming styles.
-- Provide clear and well-reasoned explanations for your choices.
-- Present your findings concisely within the specified time limit.
-- Follow the submission instructions accurately.
-
-Follow the steps outlined above to complete the project successfully.
-
-# Presentation Talking Points
-
-Example #: [Insert Example Number]
-
-## Imperative Approach [2 Minutes]
-1. **Step-by-Step Explanation:** Start by explaining the code logic in the imperative approach.
-   - Mention each step of the process in the code.
-   - Describe how the code provides explicit instructions for each action.
-   - Discuss the use of variables to track the state and progress of the process.
-
-2. **Emphasis on How:** Highlight how the imperative approach focuses on detailing "how" the task is accomplished.
-   - Point out the use of loops, conditions, and explicit instructions.
-   - Discuss any mutable variables or states that change during execution.
-
-
-Example #: [Insert Example Number]
-
-## Declarative Approach [2 Minutes]
-1. **High-Level Process Description:** Explain the code logic in the declarative approach.
-   - Describe the cooking process in a high-level, abstract manner.
-   - Emphasize that the code defines "what" should happen rather than "how" it should happen.
-
-2. **Use of Data Structures:** Discuss the use of data structures (e.g., arrays, objects) to represent the process steps.
-   - Explain how the process steps are organized in a structured format.
-   - Mention any abstraction layers or functions used to encapsulate actions.
-
-# Learning Outcome [1 Minute]
-- Reflect on what you've learned from analyzing these code examples in different paradigms.
-
+Loom video presentation LINK:https://www.loom.com/share/b9a4b4a923dd4eff9f021b4119febef7?sid=c458a238-b1ce-48e2-bd74-55a6cec6ac2e
